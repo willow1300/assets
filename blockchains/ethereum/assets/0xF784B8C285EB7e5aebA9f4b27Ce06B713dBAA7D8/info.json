@@ -1,0 +1,10 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "MyToken is an ERC20 token.",
+  "website": "https://mytokenwebsite.com",
+  "explorer": "https://etherscan.io/token/0xF784B8C285EB7e5aebA9fAb27Ce06B713dBAA7D8",
+  "status": "active",
+  "id": "0xF784B8C285EB7e5aebA9fAb27Ce06B713dBAA7D8"
+}
